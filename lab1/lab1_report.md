@@ -7,3 +7,4 @@ Author: Darovskikh Elena Alekseevna
 Lab: Lab1
 Date of create: 27.03.2025
 Date of finished: 28.03.2025
+
