@@ -58,9 +58,11 @@ Date of finished: 11.04.2025
 ![image](https://github.com/user-attachments/assets/61ac2d51-2657-449f-ac3c-46c2ee29027b)
 
 Устанавливаем утилиту wine
+
 `sudo apt-get install -y wine32`
 
 Проверяем корректное отображение портов
+
 `sip show peers`
 
 Проверяем звонок
